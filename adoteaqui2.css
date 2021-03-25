@@ -15,6 +15,7 @@ ul {
         display: inline-block;
         padding: 20px 10px;
         font-size: 20pt;
+        margin-right: 100px;
     }
 a {
     text-decoration:none ;
@@ -47,7 +48,6 @@ h1:hover {
     nav { 
         display: block;
         justify-content: center;
-
 
     }
 }
